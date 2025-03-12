@@ -133,18 +133,6 @@ php artisan migrate --seed
 
 ---
 
-## 📸 Screenshot
-| Calendario Cliente | Calendario Admin |
-|--------------------|------------------|
-| ![Client Screenshot](screenshot-client.png) | ![Admin Screenshot](screenshot-admin.png) |
-
----
-
-## 📄 Licenza
-[MIT License](LICENSE)
-
----
-
 ## ✨ Autore
 **Marco De Vito**  
 LinkedIn: [linkedin.com/in/marcodevitodevolperbackend](https://linkedin.com/in/marcodevitodevolperbackend)
